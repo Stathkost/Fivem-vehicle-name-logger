@@ -7,7 +7,7 @@
   * Quickly log out all your vehicles
 
 ## Getting started
-there are two ways to get started.
+#### !!there are two ways to get started.!!
 ### First way: Execute with starter!
 
 1.Run the Starter.bat (located in side the "Program" folder).<br>
