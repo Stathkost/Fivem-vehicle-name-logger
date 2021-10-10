@@ -72,7 +72,7 @@ const writeFile = (fileName, arr, errArr) => {
 
   let file = createWriteStream(fileName);
   file.write(
-    `This file create with Fivem vehicle name logger!!!\n~thanks for your purchase<3\nTotal cars found: ${finalArr.length} \n\n\n\n\n\n[CarNames]` +
+    `This file create with Fivem vehicle name logger!!!\nTotal cars found: ${finalArr.length} \n\n\n\n\n\n[CarNames]` +
       "\n\n"
   );
   arr.forEach((v) => {
